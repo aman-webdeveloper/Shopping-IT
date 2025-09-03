@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random IT Solutions</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-content">
+      <div class="logo">
+        <img src="assets/logo.png" alt="Random IT Solutions Logo">
+        <span>Random IT Solutions</span>
+      </div>
+      <a href="mailto:info@randomitsolutions.com" class="btn-primary">Contact Us</a>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container text-center">
+      <h1>Laptops, Desktops & Accessories</h1>
+      <p>Pan-India Pickup & Drop | New & Refurbished | CCTV & Biometric Installation</p>
+      <a href="https://wa.me/919876543210" class="btn-whatsapp">Enquire on WhatsApp</a>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="container py">
+    <h2>Categories</h2>
+    <div class="grid-4">
+      <div class="card">
+        <img src="assets/cat-laptop.jpg" alt="Laptops">
+        <div class="card-body">
+          <h3>Laptops</h3>
+          <p>New & Refurbished</p>
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/cat-desktop.jpg" alt="Desktops">
+        <div class="card-body">
+          <h3>Desktops</h3>
+          <p>High Performance</p>
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/cat-accessories.jpg" alt="Accessories">
+        <div class="card-body">
+          <h3>Accessories</h3>
+          <p>RAM, SSD, Mouse, Keyboard</p>
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/cat-cctv.jpg" alt="CCTV">
+        <div class="card-body">
+          <h3>CCTV & Biometric</h3>
+          <p>Installation Services</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Products -->
+  <section class="container py">
+    <h2>Featured Products</h2>
+    <div class="grid-4">
+      <div class="card">
+        <img src="assets/prod1.jpg" alt="Dell Inspiron 15" class="prod-img">
+        <div class="card-body">
+          <h3>Dell Inspiron 15</h3>
+          <p class="price">₹35,000</p>
+          <a href="https://wa.me/919876543210" class="link">Enquire Now</a>
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/prod2.jpg" alt="HP ProBook 450" class="prod-img">
+        <div class="card-body">
+          <h3>HP ProBook 450</h3>
+          <p class="price">₹48,000</p>
+          <a href="https://wa.me/919876543210" class="link">Enquire Now</a>
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/prod3.jpg" alt="8GB DDR4 RAM" class="prod-img">
+        <div class="card-body">
+          <h3>8GB DDR4 RAM</h3>
+          <p class="price">₹2,500</p>
+          <a href="https://wa.me/919876543210" class="link">Enquire Now</a>
+        </div>
+      </div>
+      <div class="card">
+        <img src="assets/prod4.jpg" alt="256GB SSD" class="prod-img">
+        <div class="card-body">
+          <h3>256GB SSD</h3>
+          <p class="price">₹3,200</p>
+          <a href="https://wa.me/919876543210" class="link">Enquire Now</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section class="bg-light py">
+    <div class="container">
+      <h2>Our Services</h2>
+      <div class="grid-3">
+        <div class="service-card">CCTV & Biometric Installation</div>
+        <div class="service-card">Bulk Laptop Sales & Rentals</div>
+        <div class="service-card">Pickup & Delivery Across India</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>Contact: info@randomitsolutions.com | +91 98765 43210</p>
+    <p>© 2025 Random IT Solutions</p>
+  </footer>
+
+</body>
+</html>
