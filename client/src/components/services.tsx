@@ -21,8 +21,8 @@ export default function Services() {
     },
     {
       icon: Truck,
-      title: "Pan-India Pickup & Delivery",
-      description: "Nationwide logistics network ensuring secure pickup and delivery of technology products to your doorstep.",
+      title: "End-to-End Software Support",
+      description: "Secure, efficient, and timely support for businesses across India. Dedicated assistance to keep your software running smoothly.",
       bgColor: "bg-gradient-to-br from-purple-50 to-violet-50",
       borderColor: "border-purple-100",
       iconBg: "bg-purple-600"

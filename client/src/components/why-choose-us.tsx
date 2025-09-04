@@ -8,6 +8,7 @@ export default function WhyChooseUs() {
       title: "Quality Assured",
       description: "Rigorous testing and quality checks on all products before delivery",
       bgColor: "bg-primary"
+       
     },
     {
       icon: Clock,

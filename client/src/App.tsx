@@ -43,7 +43,7 @@ import Desktop from "./pages/Desktop"
 import MemoryStorage from "./pages/MemoryStorage";
 import Peripherals from "./pages/Peripherals";
 import CctvSecurity from "./pages/cctvsecurity";
-// import TechAccessories from "./pages/TechAccessories";
+import SoftwareLicenses from "./pages/SoftwareLicenses";
 
 
 
@@ -57,7 +57,7 @@ function Routes() {
            <Route path="/memorystorage" component={MemoryStorage} />
          <Route path="/peripherals" component={Peripherals} />
           <Route path="/CctvSecurity" component={CctvSecurity} />
-            {/* <Route path="/techaccessories" component={TechAccessories} /> */}
+            <Route path="/SoftwareLicenses" component={SoftwareLicenses} />
       <Route component={NotFound} />
     </Switch>
   );

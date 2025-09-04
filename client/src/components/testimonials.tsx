@@ -94,7 +94,7 @@ export default function Testimonials() {
         
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {testimonials?.map((testimonial: Testimonial) => (
-            <Card key={testimonial.id} className="bg-slate-50 p-8 rounded-2xl border border-gray-100">
+            <Card key={testimonial.id} className="bg-blue-100 p-8 rounded-2xl border border-blue-200">
               <CardContent className="p-0">
                 <div className="flex items-center mb-6">
                   <div className="flex text-yellow-400 mb-4">

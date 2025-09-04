@@ -70,7 +70,7 @@ export class MemStorage implements IStorage {
         name: "Software & License",
         description: "Adobe,Micrsoft and all other License",
         imageUrl:"/product-categories/mainsoftwarelicense.png",
-        link: "softwarelicenses"
+        link: "SoftwareLicenses"
       }
     ];
 
